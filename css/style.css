@@ -417,7 +417,7 @@ h1, h2, h3, h4, h5, h6 {
   -webkit-backface-visibility: hidden;
   background-color: #350049;
   /* IE9, iOS 3.2+ */
-  background: url('../image/hounny_bg.jpg') no-repeat center center;  
+  background: url('../image/hounny_bg_3.jpg') no-repeat center center;  
 }
 
 
@@ -462,7 +462,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 38px;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.8);
-  margin: 0 0 0 -20%;
+  margin: 0 0 0 -27%;
 }
 
 .slant {

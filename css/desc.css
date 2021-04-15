@@ -98,9 +98,19 @@ body{font-family:'Noto Sans KR', sans-serif; font-size: 20x; line-height: 36px; 
 
 
 
+/*  만개의레시피 링크  */
+
+.recipe_btn {
+	position: absolute;
+	top: 71%;
+	left: 51%;
+}
 
 
-/* 부산아트 ㄴ뒤로가기 버튼*/
+
+
+
+/* 부산아트 뒤로가기 버튼*/
 
 .back{
 	padding: 2% 50%;
